@@ -20,10 +20,10 @@ Blender脚本：
 ```
 │  BlenderScript.py   	#Blender模型优化脚本
 │  getCornerPoints.py 	#角点计算
-│  main.py 			       	#python主程序
-│  opencvLSD.py 	     	#区域LSD，鼠标交互选择线段
-│  rotateToMesh.py 		  #二维点至三维线投影
-│  xmlParse.py 			    #获取xml文件中内外方元素信息
-├─data					        #实验数据
-└─LineExtractMethod 	  #三种线提取算法(C++版)
+│  main.py 	        #python主程序
+│  opencvLSD.py 	#区域LSD，鼠标交互选择线段
+│  rotateToMesh.py      #二维点至三维线投影
+│  xmlParse.py 	        #获取xml文件中内外方元素信息
+├─data			#实验数据
+└─LineExtractMethod 	#三种线提取算法(C++版)
 ```
