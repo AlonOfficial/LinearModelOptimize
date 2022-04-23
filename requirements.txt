@@ -1,0 +1,4 @@
+scipy
+trimesh
+opencv-python
+numpy
