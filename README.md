@@ -4,8 +4,8 @@
 
 ## 运行环境
 三种线提取算法(C++):
-OpenCV 4.55
-VS 2019
+- OpenCV4.55
+- VS 2019
 
 主体python程序：
 ```
@@ -13,10 +13,11 @@ pip install -r requirements.txt
 ```
 
 Blender脚本：
-Blender 3.0.1
+- Blender 3.0.1
 
 
 ## 目录说明
+```
 │  BlenderScript.py 	#Blender模型优化脚本
 │  getCornerPoints.py 	#角点计算
 │  main.py 				#python主程序
@@ -25,3 +26,4 @@ Blender 3.0.1
 │  xmlParse.py 			#获取xml文件中内外方元素信息
 ├─data					#实验数据
 └─LineExtractMethod 	#三种线提取算法(C++版)
+```
