@@ -11,7 +11,8 @@
 主体python程序：
 ```
 pip install -r requirements.txt
-```
+
+若需要进行射线-模型求交加速，需要手动安装[pyembree](https://github.com/scopatz/pyembree)库
 
 Blender脚本：
 - Blender 3.0.1
